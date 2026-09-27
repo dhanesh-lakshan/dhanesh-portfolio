@@ -6,7 +6,7 @@ import excelCertificate from '../assets/cetificates/Excel for Industry Readiness
 import powerBiCertificate from '../assets/cetificates/Microsoft Power BI for Beginners.png';
 import cloudCertificate from '../assets/cetificates/CloudPath Pro.png';
 import reactCertificate from '../assets/cetificates/React Native Full-Stack Developer Training.png';
-import englishCertificate from '../assets/cetificates/Diploma in English Language and Literature.png';
+import englishCertificate from '../assets/cetificates/Diploma in English Language and Literature.jpg';
 import {
   CertificateRibbonIcon,
   DocumentCheckIcon,
